@@ -16,3 +16,12 @@
 .btn-dark.buy-now-button {
   border-color: transparent;
 }
+
+.small-text {
+  font-size: 12px;
+}
+
+.small-image {
+  max-width: 100%;
+  height: auto;
+}
